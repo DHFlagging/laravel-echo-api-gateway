@@ -41,7 +41,6 @@ class ConnectionRepository
                 return;
             }
 
-            throw $e;
         }
     }
 }
